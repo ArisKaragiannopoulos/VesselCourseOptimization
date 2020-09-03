@@ -10,3 +10,5 @@ In order to download and install MongoDb please visit the following link and fol
 After you are done installing node.js and mongoDb please visit the following links to install Express and mongoose :
 https://expressjs.com/en/guide/database-integration.html    Express
 https://www.npmjs.com/package/mongoose                      Mongoose
+
+In order to start the application go to the project directory and use the command : node app.js
